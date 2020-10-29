@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'package:ActApp/home_page_male.dart';
-import 'package:ActApp/home_page_female.dart';
+import 'home_page_male.dart';
+import 'home_page_female.dart';
 
 class Gender extends StatefulWidget {
   @override
